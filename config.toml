@@ -1,0 +1,27 @@
+baseurl = "test"
+languageCode = "en-us"
+title = "MVP Tutorial"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+
+publishdir = "docs"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Seminar"
+    url = "/seminar/"
+    weight = 2
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [MVP Tutorial](http://mvp.yonsei.ac.kr) 2017"

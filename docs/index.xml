@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on MVP Tutorial</title>
+    <link>test/</link>
+    <description>Recent content in Home on MVP Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MVP Tutorial Winter Seminar</title>
+      <link>test/seminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>test/seminar/</guid>
+      <description>Fully Convolutional Networks for Semantic Segmentation Evan Shelhamer, Jonathan Long and Trevor Darrell, CVPR 2015 FCN 은 Semantic Segmentation을 하는 Paper입니다.  
+논문은 여기서 받으실 수 있습니다.
+
+마크다운에 대해 배워봅시다.
+큰 제목입니다 1. 중간 제목입니다 1.1. 소제목입니다 1.1.a. 소-소제목입니다. 이건 그냥 글입니다. 두 번 띄우지 않으면 한 문단으로 인식합니다.
+1.1.b. 소-소제목입니다. 조선총독부 청사(朝鮮總督府廳舍)는 1910년부터 1945년까지 일제 강점기 조선에서 일본 제국의 식민 통치를 시행한 최고 행정 관청인 조선총독부가 사용한 건물이며, 조선총독부 관사(朝鮮總督府官舍)는 조선총독부와 유관 기관의 관리들을 위해 지어진 주택이다.</description>
+    </item>
+    
+  </channel>
+</rss>
